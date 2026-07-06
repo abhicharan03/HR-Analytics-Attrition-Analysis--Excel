@@ -57,9 +57,6 @@ This project analyzes employee attrition data to identify the key factors influe
 - Attrition is more common among employees with fewer years at the company.
 - Income levels vary across job roles, providing insights into salary distribution.
 
-## Dashboard Preview
-
-![HR-Analytics-Attrition-Analysis-Excel](Dashboardimage.png)
 
 ## Skills Demonstrated
 
