@@ -59,7 +59,7 @@ This project analyzes employee attrition data to identify the key factors influe
 
 ## Dashboard Preview
 
-![HR Analytics Dashboard](Dashboard_image.png)
+![HR Analytics Dashboard](Dashboard_image.jpg)
 
 ## Skills Demonstrated
 
