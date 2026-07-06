@@ -1,4 +1,4 @@
-# HR-Analytics-Attrition-Analysis--Excel
+# HR-Analytics-Attrition-Analysis-Excel
 
 ## Project Overview
 
@@ -59,7 +59,7 @@ This project analyzes employee attrition data to identify the key factors influe
 
 ## Dashboard Preview
 
-![HR Analytics Dashboard](Dashboard_image.jpg)
+![HR-Analytics-Attrition-Analysis-excel](Dashboardimage.png)
 
 ## Skills Demonstrated
 
